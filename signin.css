@@ -1,0 +1,42 @@
+.container {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  button{
+
+    margin-top: 1rem;
+    display: inline-block;
+    padding: .5rem 1rem;
+    border-radius: 5rem;
+    background: #27ae60;
+    font-size: 2rem;
+    cursor: pointer;
+    padding: .5rem 10rem;
+    position: absolute;
+    left: 35%;
+   
+    
+}
+button:hover{
+  background: #78e4a5;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+  

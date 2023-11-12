@@ -1,0 +1,21 @@
+.control_input {
+    width: 35%;
+    font-size: var(--nomral-font-size);
+    font-weight: var(--font-semi);
+    padding: 1rem;
+    outline: black;
+    margin-bottom: black;
+  }
+  
+  .control_button {
+    border-radius: .5rem;
+    background: #27ae60;
+    color: white;
+    padding: .5rem;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-left: auto;
+  }
+  .control_button:hover{
+    background: #80e4aa;
+  }
